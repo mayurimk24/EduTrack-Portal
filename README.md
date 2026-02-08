@@ -11,4 +11,4 @@ Spring Boot based backend project for managing educational batches and entries.
 ## How to Run
 1. Clone the repo
 2. Import in IntelliJ as Maven project
-3. Run `MarvellousFullStackApplication1`
+3. Run `EducationalTrack`
